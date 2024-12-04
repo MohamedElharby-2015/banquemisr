@@ -4,7 +4,7 @@ A backend exercise for banquemisr Senior Java backend developer position
 - Java 21
 - Spring Boot 3.4.0
 - MySQL
-- Email Integration (via JavaMailSender)
+- Email Integration (via JavaMailSender) - Please put your Email and password in .properties file
 - Schedule daily email notifications at 1:00 AM.
 - Prevent tasks with due dates in the past.
 - Log and handle errors with meaningful messages.
